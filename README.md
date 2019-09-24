@@ -1,2 +1,2 @@
 # udacity-dend
-Repository of all projects done in Udacity Data Engineering Nano Degree
+This repository contains the Capstone project done for Udacity Data Engineering Nano Degree
